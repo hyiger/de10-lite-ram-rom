@@ -178,13 +178,13 @@ Text Label 3050 2600 0    50   ~ 0
 Text Label 3050 2700 0    50   ~ 0
 ~WR
 $Comp
-L Memory_RAM:IS61C5128AS-25TLI U1
+L Memory_RAM:AS6C4008A-55ZIN U1
 U 1 1 5D78B32A
 P 6100 2650
 F 0 "U1" H 5700 3900 50  0000 C CNN
-F 1 "IS61C5128AS-25TLI" H 6150 2650 50  0000 C CNN
+F 1 "AS6C4008A-55ZIN" H 6150 2650 50  0000 C CNN
 F 2 "Package_SO:TSOP-II-32_21.0x10.2mm_P1.27mm" H 5600 3800 50  0001 C CNN
-F 3 "http://www.issi.com/WW/pdf/61-64C5128AL.pdf" H 6100 2650 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/12/AS6C4008A-1288404.pdf" H 6100 2650 50  0001 C CNN
 	1    6100 2650
 	1    0    0    -1  
 $EndComp
@@ -580,7 +580,7 @@ P 9350 4700
 F 0 "U3" H 9325 4967 50  0000 C CNN
 F 1 "74LVC2G04" H 9325 4876 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 9350 4700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 9350 4700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf" H 9350 4700 50  0001 C CNN
 	1    9350 4700
 	1    0    0    -1  
 $EndComp
