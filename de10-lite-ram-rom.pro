@@ -1,4 +1,4 @@
-update=Sunday, September 08, 2019 at 05:56:55 PM
+update=Sunday, September 08, 2019 at 10:42:42 PM
 version=1
 last_client=kicad
 [general]
@@ -12,11 +12,21 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-CopperLayerCount=2
+CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -53,7 +63,7 @@ CopperTextThickness=0.3048
 CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.0508
-CourtyardLineWidth=0.0508
+CourtyardLineWidth=0.05
 OthersLineWidth=0.1524
 OthersTextSizeV=0.8128
 OthersTextSizeH=0.8128
@@ -71,11 +81,11 @@ Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=In1.Cu
 Type=0
-Enabled=0
+Enabled=1
 [pcbnew/Layer.In2.Cu]
 Name=In2.Cu
 Type=0
-Enabled=0
+Enabled=1
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=0
@@ -253,13 +263,3 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
